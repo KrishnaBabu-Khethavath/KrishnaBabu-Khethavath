@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me about **Python, Sql, PowerBi etc.**
+- 💬 Ask me about **Python, Sql, PowerBi, Excel etc.**
 
 - 📫 How to reach me **krishnababu6469@gmail.com**
 
