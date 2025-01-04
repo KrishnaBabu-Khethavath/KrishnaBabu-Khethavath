@@ -29,30 +29,13 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=Seaborn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📊 Projects
-1. **Sales Analysis with Excel:** 
-   - Conducted a detailed sales analysis for a retail store using pivot tables and charts.
-   - [View Project](#) 
-2. **Customer Segmentation using SQL:** 
-   - Segmented customers based on purchasing behavior using SQL queries.
-   - [View Project](#)
-3. **Interactive Dashboards with Power BI:** 
-   - Created interactive dashboards to visualize sales data.
-   - [View Project](#)
-4. **Data Analysis with Python:** 
-   - Analyzed datasets using Pandas, NumPy, and visualized results using Matplotlib and Seaborn.
-   - [View Project](#)
+## 📊 Projects 
+- 👉 [Click Here](https://github.com/KrishnaBabu-Khethavath?tab=repositories)
 
 
 ---
 
-## 📫 How to reach me
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [Your GitHub Profile](#)
-
+## 📫 How to reach me 
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnababu69/)
+-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KrishnaBabu-Khethavath)
 ---
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[YourGitHubUsername]&show_icons=true&locale=en&layout=compact" alt="[YourGitHubUsername]" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&" alt="[YourGitHubUsername]" /></p>
