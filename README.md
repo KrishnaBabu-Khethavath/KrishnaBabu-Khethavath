@@ -5,11 +5,10 @@
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400"/>
 </p>
 
-<p align="center">🌟 Data enthusiast 🌟 | 🎓 Recent graduate 🎓 | 📊 Passionate about uncovering insights 📊</p>
+## <h3 align="center">🌟 Data enthusiast 🌟 |  📊 Passionate about uncovering insights 📊</h3>
 
 ---
-
-<h2 align="left">About Me</h2>
+## About Me
 - 🎓 I recently graduated with a B.Tech from [Sri Indu College of Engg & Tech] in CSE.
 - 💡 I have a strong foundation in **Python, SQL, Power BI, and Excel**.
 - 🔍 My passion lies in discovering hidden patterns and turning data into actionable insights.
