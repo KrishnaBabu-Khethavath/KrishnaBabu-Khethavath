@@ -29,7 +29,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📊 Projects 
-- 👉 [Click Here](https://github.com/KrishnaBabu-Khethavath?tab=repositories)
+## 👉 [Click Here](https://github.com/KrishnaBabu-Khethavath?tab=repositories)
 
 
 ---
