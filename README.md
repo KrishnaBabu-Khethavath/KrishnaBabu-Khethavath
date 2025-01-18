@@ -1,10 +1,9 @@
 ![logo](https://github.com/KrishnaBabu-Khethavath/KrishnaBabu-Khethavath/blob/main/B-logo.png )
 <h1 align="center">Hello 👋, I'm Krishna Babu </h1>
-<h2 align="center">Aspiring Data Analyst  </h2>
-
-<p align="center">
+<!-- <h2 align="center">Aspiring Data Analyst  </h2> -->
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400"/>
-</p>
+</p> -->
 
 ## <h3 align="center">🌟 Data enthusiast 🌟 |  📊 Passionate about uncovering insights 📊</h3>
 
@@ -35,7 +34,7 @@
 
 ---
 
-## 📫 How to reach me 
+## 🖇️ Connect me 
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnababu69/)
 -  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KrishnaBabu-Khethavath)
 ---
