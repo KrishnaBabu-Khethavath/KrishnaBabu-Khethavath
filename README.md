@@ -1,4 +1,4 @@
-![logo](https://github.com/KrishnaBabu-Khethavath/KrishnaBabu-Khethavath/blob/main/Banner-logo.png)
+![logo](https://github.com/KrishnaBabu-Khethavath/KrishnaBabu-Khethavath/blob/main/Banner%20logo.png)
 <h1 align="center">Hello 👋, I'm Krishna  </h1>
 <!-- <h2 align="center">Aspiring Data Analyst  </h2> -->
 <!-- <p align="center">
