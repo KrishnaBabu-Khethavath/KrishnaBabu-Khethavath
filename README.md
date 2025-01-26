@@ -9,10 +9,18 @@
 
 ---
 ## About Me
-- 🎓 I recently graduated with a B.Tech from [Sri Indu College of Engg & Tech] in CSE.
-- 💡 I have a strong foundation in **Python, SQL, Power BI, and Excel**.
-- 🔍 My passion lies in discovering hidden patterns and turning data into actionable insights.
-- 🛠️ I love working on projects that challenge my analytical and problem-solving skills.
+###  An aspiring Data Analyst with a strong foundation in Python 🐍, SQL 🗃️, Power BI 📊, and Excel 📈. I specialize in transforming raw data into actionable insights through effective data cleaning, analysis, and visualization.
+
+- 🚀 My experience includes creating dynamic dashboards, performing in-depth exploratory data analysis, and uncovering trends to support decision-making. I’ve worked on diverse projects such as:
+
+- 🎬 Netflix Content Analysis using SQL to explore ratings, trends, and regional preferences.
+- 🏥 Healthcare Analytics Dashboards in Power BI to visualize key health metrics.
+- 🏠 Airbnb Data Visualization with Python to uncover pricing and neighborhood trends.
+- 💳 Bank Loan Report in Excel, where I built an interactive dashboard using pivot tables, slicers, and advanced charts to analyze financial data.
+- 🎓 I hold a B.Tech in Computer Science and have hands-on experience from internships at KultureHire and IBM SkillUp, where I honed my technical expertise and problem-solving skills.
+
+- ✨ I am passionate about leveraging data to solve real-world problems and create meaningful impact. Let’s connect and explore opportunities to drive data-driven success together!
+
 
 ---
 
