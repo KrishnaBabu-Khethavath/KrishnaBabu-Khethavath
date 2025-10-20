@@ -73,11 +73,11 @@ I'm a methodical and creative data storyteller with hands-on experience in Excel
 
 ---
 
-## 📄 Resume
+<!-- ## 📄 Resume
 
 📥 [Download My Resume](resume/KrishnaBabu_Resume.pdf)
 
----
+--- -->
 
 ## ✨ Let’s Collaborate
 
