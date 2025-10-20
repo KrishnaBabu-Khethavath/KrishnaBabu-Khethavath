@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github.com/KrishnaBabu-Khethavath/KrishnaBabu-Khethavath/blob/main/link%20logo%20(2).png" width="100%" alt="Krishna Logo"/>
 </div>
-
 <h1 align="center">Hi, I'm Krishna Babu 👋</h1>
 <h3 align="center">📊 Data Analyst | 🧠 Insight Architect | 🎨 Dashboard Designer</h3>
 
