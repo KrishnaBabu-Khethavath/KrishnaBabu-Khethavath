@@ -1,48 +1,88 @@
-![logo](https://github.com/KrishnaBabu-Khethavath/KrishnaBabu-Khethavath/blob/main/link%20logo%20(2).png)
-<h1 align="center">Hello 👋, I'm Krishna  </h1>
-<!-- <h2 align="center">Aspiring Data Analyst  </h2> -->
-<!-- <p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400"/>
-</p> -->
+<div align="center">
+  <img src="https://github.com/KrishnaBabu-Khethavath/KrishnaBabu-Khethavath/blob/main/link%20logo%20(2).png" width="100%" alt="Krishna Logo"/>
+</div>
 
-## <h3 align="center">🌟 Data enthusiast 🌟 |  📊 Passionate about uncovering insights 📊</h3>
+<h1 align="center">Hi, I'm Krishna Babu 👋</h1>
+<h3 align="center">📊 Data Analyst | 🧠 Insight Architect | 🎨 Dashboard Designer</h3>
 
----
-## About Me
-###  An aspiring Data Analyst with a strong foundation in Python 🐍, SQL 🗃️, Power BI 📊, and Excel 📈. I specialize in transforming raw data into actionable insights through effective data cleaning, analysis, and visualization.
-
-- 🚀 My experience includes creating dynamic dashboards, performing in-depth exploratory data analysis, and uncovering trends to support decision-making. I’ve worked on diverse projects such as:
-
-- 🎬 Netflix Content Analysis using SQL to explore ratings, trends, and regional preferences.
-- 🏥 Healthcare Analytics Dashboards in Power BI to visualize key health metrics.
-- 🏠 Airbnb Data Visualization with Python to uncover pricing and neighborhood trends.
-- 💳 Bank Loan Report in Excel, where I built an interactive dashboard using pivot tables, slicers, and advanced charts to analyze financial data.
-- 🎓 I hold a B.Tech in Computer Science and have hands-on experience from internships at KultureHire and IBM SkillUp, where I honed my technical expertise and problem-solving skills.
-
-- ✨ I am passionate about leveraging data to solve real-world problems and create meaningful impact. Let’s connect and explore opportunities to drive data-driven success together!
-
+<p align="center">
+  <img src="assets/banner.gif" width="400" alt="Coding Animation"/>
+</p>
 
 ---
 
-## 💼 Skills
+## 🔍 About Me
+
+I'm a methodical and creative data storyteller with hands-on experience in Excel, Power BI, SQL, and Python. I specialize in turning raw data into actionable insights and interactive dashboards that speak louder than words.
+
+🎓 B.Tech in Computer Science  
+💼 Internships at **KultureHire** & **IBM SkillUp**  
+🌐 Portfolio: [datascienceportfol.io/KrishnaBabu](https://datascienceportfol.io/KrishnaBabu)
+
+---
+
+## 🧠 What I Do Best
+
+- 📈 Build interactive dashboards that drive decisions  
+- 🧹 Clean and transform messy data into gold  
+- 🔍 Perform deep-dive exploratory data analysis (EDA)  
+- 🎯 Communicate insights with clarity and impact  
+
+---
+
+## 🚀 Featured Projects
+
+| 📌 Project | 💬 Description |
+|-----------|----------------|
+| 🎬 [Netflix SQL Analysis](projects/Netflix-Data-Analysis-SQL) | Uncovered content trends, ratings, and regional preferences using SQL |
+| 🏥 [Healthcare Dashboard](projects/Healthcare-Analytics-PowerBI) | Visualized key health metrics with Power BI |
+| 🏠 [Airbnb EDA](projects/Airbnb-Data-Analysis-Python) | Analyzed pricing and neighborhood trends using Python |
+| 💳 [Bank Loan Report](projects/Bank-Loan-Analysis-Excel) | Built Excel dashboard with slicers, pivot tables, and charts |
+
+👉 Explore all repositories: [GitHub Portfolio](https://github.com/KrishnaBabu-Khethavath?tab=repositories)
+
+---
+
+## 🛠️ Tools & Technologies
+
+<div align="center">
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-02569B?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=Seaborn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📊 Projects 
-## 👉 [Click Here](https://github.com/KrishnaBabu-Khethavath?tab=repositories)
-
+</div>
 
 ---
 
-## 🖇️ Connect on 👇
--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnababu69/)
--  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KrishnaBabu-Khethavath)
+## 📬 Contact Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnababu69/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KrishnaBabu-Khethavath)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnababu6469@gmail.com)
+
+</div>
+
 ---
+
+## 📄 Resume
+
+📥 [Download My Resume](resume/KrishnaBabu_Resume.pdf)
+
+---
+
+## ✨ Let’s Collaborate
+
+Whether you're hiring, mentoring, or exploring data stories — I’m open to feedback, collaboration, and new challenges.  
+Let’s connect and build something impactful together.
+
+---
+
